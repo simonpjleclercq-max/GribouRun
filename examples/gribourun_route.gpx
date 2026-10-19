@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <name>GribouRun Paris</name>
+    <desc>Itinéraire généré par GribouRun</desc>
+    <author>
+      <name>GribouRun</name>
+    </author>
+    <time>2026-03-02T11:23:11.136226</time>
+  </metadata>
+  <wpt lat="48.8835768" lon="2.2819028">
+    <name>Étape 1</name>
+    <desc>📍 Départ  — Boulevard d'Aurelle de Paladines</desc>
+  </wpt>
+  <wpt lat="48.8835768" lon="2.2819028">
+    <name>Étape 2</name>
+    <desc>⬆️ Continuez tout droit — Boulevard d'Aurelle de Paladines</desc>
+  </wpt>
+  <wpt lat="48.8815032" lon="2.2817966">
+    <name>Étape 3</name>
+    <desc>⬆️ Continuez tout droit — Rue Gustave Charpentier</desc>
+  </wpt>
+  <wpt lat="48.879478" lon="2.2807517">
+    <name>Étape 4</name>
+    <desc>⬆️ Continuez tout droit — Rue sans nom</desc>
+  </wpt>
+  <wpt lat="48.8786806" lon="2.2800695">
+    <name>Étape 5</name>
+    <desc>⬆️ Continuez tout droit — Place de Verdun</desc>
+  </wpt>
+  <wpt lat="48.877836" lon="2.2794498">
+    <name>Étape 6</name>
+    <desc>↗️ Tournez légèrement à droite — Rue Joseph et Marie Hackin</desc>
+  </wpt>
+  <wpt lat="48.8772646" lon="2.2785836">
+    <name>Étape 7</name>
+    <desc>⬆️ Continuez tout droit — Route de la Porte des Sablons à la Porte Maillot</desc>
+  </wpt>
+  <wpt lat="48.8768757" lon="2.2754683">
+    <name>Étape 8</name>
+    <desc>⬆️ Continuez tout droit — Rue sans nom</desc>
+  </wpt>
+  <wpt lat="48.8768262" lon="2.2749206">
+    <name>Étape 9</name>
+    <desc>↗️ Tournez légèrement à droite — Route de la Porte des Sablons à la Porte Maillot</desc>
+  </wpt>
+  <wpt lat="48.8774005" lon="2.2704955">
+    <name>Étape 10</name>
+    <desc>↗️ Tournez légèrement à droite — Route de la Porte des Sablons à la Porte Maillot</desc>
+  </wpt>
+  <wpt lat="48.8775788" lon="2.2703221">
+    <name>Étape 11</name>
+    <desc>⬅️ Tournez à gauche — Rue sans nom</desc>
+  </wpt>
+  <wpt lat="48.8776118" lon="2.2700052">
+    <name>Étape 12</name>
+    <desc>⬅️ Tournez à gauche — Rue sans nom</desc>
+  </wpt>
+  <wpt lat="48.8775278" lon="2.2699285">
+    <name>Étape 13</name>
+    <desc>⬆️ Continuez tout droit — Rue sans nom</desc>
+  </wpt>
+  <wpt lat="48.8772544" lon="2.2695517">
+    <name>Étape 14</name>
+    <desc>↗️ Tournez légèrement à droite — Avenue du Mahatma Gandhi</desc>
+  </wpt>
+  <wpt lat="48.8758448" lon="2.2622022">
+    <name>Étape 15</name>
+    <desc>↙️ Tournez fortement à gauche — Avenue du Mahatma Gandhi</desc>
+  </wpt>
+  <wpt lat="48.8570207" lon="2.2665471">
+    <name>Étape 16</name>
+    <desc>↖️ Tournez légèrement à gauche — Avenue Ingres</desc>
+  </wpt>
+  <wpt lat="48.8583202" lon="2.2702369">
+    <name>Étape 17</name>
+    <desc>⬆️ Continuez tout droit — Avenue Ingres</desc>
+  </wpt>
+  <wpt lat="48.8583577" lon="2.2706024">
+    <name>Étape 18</name>
+    <desc>↗️ Tournez légèrement à droite — Chaussée de la Muette</desc>
+  </wpt>
+  <wpt lat="48.8581639" lon="2.2726223">
+    <name>Étape 19</name>
+    <desc>➡️ Tournez à droite — Chaussée de la Muette</desc>
+  </wpt>
+  <wpt lat="48.8580299" lon="2.2725953">
+    <name>Étape 20</name>
+    <desc>⬅️ Tournez à gauche — Rue Largillière</desc>
+  </wpt>
+  <wpt lat="48.8571664" lon="2.2733132">
+    <name>Étape 21</name>
+    <desc>↗️ Tournez légèrement à droite — Rue des Vignes</desc>
+  </wpt>
+  <wpt lat="48.855176" lon="2.2752346">
+    <name>Étape 22</name>
+    <desc>↖️ Tournez légèrement à gauche — Rue de Boulainvilliers</desc>
+  </wpt>
+  <wpt lat="48.8514669" lon="2.2782337">
+    <name>Étape 23</name>
+    <desc>⬆️ Continuez tout droit — Rue de Boulainvilliers</desc>
+  </wpt>
+  <wpt lat="48.8493803" lon="2.2815634">
+    <name>Étape 24</name>
+    <desc>⬆️ Continuez tout droit — Pont de Grenelle - Cadets de Saumur</desc>
+  </wpt>
+  <wpt lat="48.849313" lon="2.2816662">
+    <name>Étape 25</name>
+    <desc>⬆️ Continuez tout droit — Place Ferdinand Forest</desc>
+  </wpt>
+  <wpt lat="48.8485141" lon="2.2828808">
+    <name>Étape 26</name>
+    <desc>⬆️ Continuez tout droit — Rue Linois</desc>
+  </wpt>
+  <wpt lat="48.8465574" lon="2.2859894">
+    <name>Étape 27</name>
+    <desc>↖️ Tournez légèrement à gauche — Place Charles Michels</desc>
+  </wpt>
+  <wpt lat="48.8466525" lon="2.2879909">
+    <name>Étape 28</name>
+    <desc>⬆️ Continuez tout droit — Avenue Émile Zola</desc>
+  </wpt>
+  <wpt lat="48.8473301" lon="2.2976499">
+    <name>Étape 29</name>
+    <desc>➡️ Tournez à droite — Rue Frémicourt</desc>
+  </wpt>
+  <wpt lat="48.8477978" lon="2.301404">
+    <name>Étape 30</name>
+    <desc>↖️ Tournez légèrement à gauche — Place Cambronne</desc>
+  </wpt>
+  <wpt lat="48.8477362" lon="2.3015771">
+    <name>Étape 31</name>
+    <desc>↖️ Tournez légèrement à gauche — Place Cambronne</desc>
+  </wpt>
+  <wpt lat="48.8477526" lon="2.3017167">
+    <name>Étape 32</name>
+    <desc>↗️ Tournez légèrement à droite — Place Cambronne</desc>
+  </wpt>
+  <wpt lat="48.8473729" lon="2.3030128">
+    <name>Étape 33</name>
+    <desc>↗️ Tournez légèrement à droite — Boulevard Garibaldi</desc>
+  </wpt>
+  <wpt lat="48.8428569" lon="2.3123924">
+    <name>Étape 34</name>
+    <desc>↗️ Tournez légèrement à droite — Boulevard Pasteur</desc>
+  </wpt>
+  <wpt lat="48.8396334" lon="2.3147411">
+    <name>Étape 35</name>
+    <desc>🔄 Tournez demi-tour — Rue de l'Armorique</desc>
+  </wpt>
+  <wpt lat="48.8396334" lon="2.3147411">
+    <name>Étape 36</name>
+    <desc>➡️ Tournez à droite — Rue de l'Armorique</desc>
+  </wpt>
+  <wpt lat="48.840341" lon="2.3149399">
+    <name>Étape 37</name>
+    <desc>↗️ Tournez légèrement à droite — Boulevard Pasteur</desc>
+  </wpt>
+  <wpt lat="48.8390085" lon="2.3165067">
+    <name>Étape 38</name>
+    <desc>⬅️ Tournez à gauche — Boulevard Pasteur</desc>
+  </wpt>
+  <wpt lat="48.8374791" lon="2.3181696">
+    <name>Étape 39</name>
+    <desc>↗️ Tournez légèrement à droite — Place de Catalogne</desc>
+  </wpt>
+  <wpt lat="48.8374256" lon="2.3185922">
+    <name>Étape 40</name>
+    <desc>⬆️ Continuez tout droit — Place de Catalogne</desc>
+  </wpt>
+  <wpt lat="48.8374697" lon="2.3202317">
+    <name>Étape 41</name>
+    <desc>⬆️ Continuez tout droit — Rue Vercingétorix</desc>
+  </wpt>
+  <wpt lat="48.8375752" lon="2.3224122">
+    <name>Étape 42</name>
+    <desc>➡️ Tournez à droite — Rue Jean Zay</desc>
+  </wpt>
+  <wpt lat="48.8368222" lon="2.3232462">
+    <name>Étape 43</name>
+    <desc>↖️ Tournez légèrement à gauche — Avenue du Maine</desc>
+  </wpt>
+  <wpt lat="48.8335716" lon="2.3258159">
+    <name>Étape 44</name>
+    <desc>⬆️ Continuez tout droit — Passage Tenaille</desc>
+  </wpt>
+  <wpt lat="48.8333777" lon="2.3264397">
+    <name>Étape 45</name>
+    <desc>➡️ Tournez à droite — Rue Charles Divry</desc>
+  </wpt>
+  <wpt lat="48.832025" lon="2.3274337">
+    <name>Étape 46</name>
+    <desc>⬅️ Tournez à gauche — Rue Mouton Duvernet</desc>
+  </wpt>
+  <wpt lat="48.8313718" lon="2.3299492">
+    <name>Étape 47</name>
+    <desc>⬅️ Tournez à gauche — Rue Mouton Duvernet</desc>
+  </wpt>
+  <wpt lat="48.8322136" lon="2.330682">
+    <name>Étape 48</name>
+    <desc>➡️ Tournez à droite — Avenue du Général Leclerc</desc>
+  </wpt>
+  <wpt lat="48.8334306" lon="2.3326172">
+    <name>Étape 49</name>
+    <desc>⬅️ Tournez à gauche — Place Denfert-Rochereau</desc>
+  </wpt>
+  <wpt lat="48.8337536" lon="2.3334212">
+    <name>Étape 50</name>
+    <desc>↖️ Tournez légèrement à gauche — Place Denfert-Rochereau</desc>
+  </wpt>
+  <wpt lat="48.834137" lon="2.3333506">
+    <name>Étape 51</name>
+    <desc>⬆️ Continuez tout droit — Place Denfert-Rochereau</desc>
+  </wpt>
+  <wpt lat="48.8344676" lon="2.3334563">
+    <name>Étape 52</name>
+    <desc>➡️ Tournez à droite — Boulevard Arago</desc>
+  </wpt>
+  <wpt lat="48.834607" lon="2.336965">
+    <name>Étape 53</name>
+    <desc>⬅️ Tournez à gauche — Boulevard Arago</desc>
+  </wpt>
+  <wpt lat="48.8359953" lon="2.3484769">
+    <name>Étape 54</name>
+    <desc>↗️ Tournez légèrement à droite — Rue Pascal</desc>
+  </wpt>
+  <wpt lat="48.8376541" lon="2.3492537">
+    <name>Étape 55</name>
+    <desc>↗️ Tournez légèrement à droite — Rue Pascal</desc>
+  </wpt>
+  <wpt lat="48.8384344" lon="2.3506484">
+    <name>Étape 56</name>
+    <desc>⬅️ Tournez à gauche — Rue de Valence</desc>
+  </wpt>
+  <wpt lat="48.8385884" lon="2.3507331">
+    <name>Étape 57</name>
+    <desc>⬆️ Continuez tout droit — Avenue des Gobelins</desc>
+  </wpt>
+  <wpt lat="48.8388718" lon="2.3508248">
+    <name>Étape 58</name>
+    <desc>➡️ Tournez à droite — Rue Monge</desc>
+  </wpt>
+  <wpt lat="48.8400951" lon="2.3518743">
+    <name>Étape 59</name>
+    <desc>⬆️ Continuez tout droit — Rue Censier</desc>
+  </wpt>
+  <wpt lat="48.8406571" lon="2.3539776">
+    <name>Étape 60</name>
+    <desc>⬆️ Continuez tout droit — Rue de Mirbel</desc>
+  </wpt>
+  <wpt lat="48.8408854" lon="2.3548414">
+    <name>Étape 61</name>
+    <desc>⬅️ Tournez à gauche — Rue Censier</desc>
+  </wpt>
+  <wpt lat="48.841587" lon="2.3558241">
+    <name>Étape 62</name>
+    <desc>⬆️ Continuez tout droit — Rue Geoffroy Saint-Hilaire</desc>
+  </wpt>
+  <wpt lat="48.8437912" lon="2.3549397">
+    <name>Étape 63</name>
+    <desc>⬆️ Continuez tout droit — Rue Linné</desc>
+  </wpt>
+  <wpt lat="48.8472862" lon="2.3534109">
+    <name>Étape 64</name>
+    <desc>⬆️ Continuez tout droit — Rue Jussieu</desc>
+  </wpt>
+  <wpt lat="48.8475802" lon="2.3534183">
+    <name>Étape 65</name>
+    <desc>↗️ Tournez légèrement à droite — Rue des Fossés Saint-Bernard</desc>
+  </wpt>
+  <wpt lat="48.8488161" lon="2.3553225">
+    <name>Étape 66</name>
+    <desc>↗️ Tournez légèrement à droite — Rue des Fossés Saint-Bernard</desc>
+  </wpt>
+  <wpt lat="48.8493852" lon="2.3563214">
+    <name>Étape 67</name>
+    <desc>⬆️ Continuez tout droit — Boulevard Saint-Germain</desc>
+  </wpt>
+  <wpt lat="48.8500938" lon="2.3589985">
+    <name>Étape 68</name>
+    <desc>↖️ Tournez légèrement à gauche — Boulevard Henri IV</desc>
+  </wpt>
+  <wpt lat="48.8532534" lon="2.3685961">
+    <name>Étape 69</name>
+    <desc>➡️ Tournez à droite — Place de la Bastille</desc>
+  </wpt>
+  <wpt lat="48.8534721" lon="2.3695555">
+    <name>Étape 70</name>
+    <desc>↗️ Tournez légèrement à droite — Place de la Bastille</desc>
+  </wpt>
+  <wpt lat="48.8532974" lon="2.3697178">
+    <name>Étape 71</name>
+    <desc>↖️ Tournez légèrement à gauche — Place de la Bastille</desc>
+  </wpt>
+  <wpt lat="48.8532957" lon="2.3701484">
+    <name>Étape 72</name>
+    <desc>↖️ Tournez légèrement à gauche — Rue du Faubourg Saint-Antoine</desc>
+  </wpt>
+  <wpt lat="48.8543372" lon="2.3714397">
+    <name>Étape 73</name>
+    <desc>➡️ Tournez à droite — Rue de la Roquette</desc>
+  </wpt>
+  <wpt lat="48.8571879" lon="2.3795528">
+    <name>Étape 74</name>
+    <desc>⬅️ Tournez à gauche — Rue de la Roquette</desc>
+  </wpt>
+  <wpt lat="48.85745" lon="2.3796975">
+    <name>Étape 75</name>
+    <desc>↗️ Tournez légèrement à droite — Avenue Ledru-Rollin</desc>
+  </wpt>
+  <wpt lat="48.8576763" lon="2.3801134">
+    <name>Étape 76</name>
+    <desc>↗️ Tournez légèrement à droite — Rue de la Roquette</desc>
+  </wpt>
+  <wpt lat="48.8576603" lon="2.3804162">
+    <name>Étape 77</name>
+    <desc>⬅️ Tournez à gauche — Place Léon Blum</desc>
+  </wpt>
+  <wpt lat="48.8578139" lon="2.3805281">
+    <name>Étape 78</name>
+    <desc>⬅️ Tournez à gauche — Place Léon Blum</desc>
+  </wpt>
+  <wpt lat="48.8579579" lon="2.380304">
+    <name>Étape 79</name>
+    <desc>⬆️ Continuez tout droit — Place Léon Blum</desc>
+  </wpt>
+  <wpt lat="48.8583808" lon="2.3800503">
+    <name>Étape 80</name>
+    <desc>➡️ Tournez à droite — Avenue Parmentier</desc>
+  </wpt>
+  <wpt lat="48.861978" lon="2.378073">
+    <name>Étape 81</name>
+    <desc>⬅️ Tournez à gauche — Rue Lacharrière</desc>
+  </wpt>
+  <wpt lat="48.863055" lon="2.3792969">
+    <name>Étape 82</name>
+    <desc>➡️ Tournez à droite — Rue Saint-Maur</desc>
+  </wpt>
+  <wpt lat="48.8661028" lon="2.3791913">
+    <name>Étape 83</name>
+    <desc>⬆️ Continuez tout droit — Rue Oberkampf</desc>
+  </wpt>
+  <wpt lat="48.8671068" lon="2.3832861">
+    <name>Étape 84</name>
+    <desc>⬅️ Tournez à gauche — Rue de Ménilmontant</desc>
+  </wpt>
+  <wpt lat="48.8702425" lon="2.38915">
+    <name>Étape 85</name>
+    <desc>⬅️ Tournez à gauche — Rue Henri Chevreau</desc>
+  </wpt>
+  <wpt lat="48.8714738" lon="2.3860287">
+    <name>Étape 86</name>
+    <desc>↗️ Tournez légèrement à droite — Rue du Transvaal</desc>
+  </wpt>
+  <wpt lat="48.8734835" lon="2.3831002">
+    <name>Étape 87</name>
+    <desc>↖️ Tournez légèrement à gauche — Rue Piat</desc>
+  </wpt>
+  <wpt lat="48.87347" lon="2.3830154">
+    <name>Étape 88</name>
+    <desc>➡️ Tournez à droite — Rue de Belleville</desc>
+  </wpt>
+  <wpt lat="48.8738234" lon="2.3827956">
+    <name>Étape 89</name>
+    <desc>↖️ Tournez légèrement à gauche — Rue Rébeval</desc>
+  </wpt>
+  <wpt lat="48.8744229" lon="2.381577">
+    <name>Étape 90</name>
+    <desc>➡️ Tournez à droite — Rue Rébeval</desc>
+  </wpt>
+  <wpt lat="48.8755822" lon="2.3818804">
+    <name>Étape 91</name>
+    <desc>➡️ Tournez à droite — Rue Pradier</desc>
+  </wpt>
+  <wpt lat="48.8752366" lon="2.3823005">
+    <name>Étape 92</name>
+    <desc>↖️ Tournez légèrement à gauche — Avenue Simón Bolívar</desc>
+  </wpt>
+  <wpt lat="48.8738054" lon="2.3880252">
+    <name>Étape 93</name>
+    <desc>⬅️ Tournez à gauche — Rue des Pyrénées</desc>
+  </wpt>
+  <wpt lat="48.8746856" lon="2.3877743">
+    <name>Étape 94</name>
+    <desc>⬅️ Tournez à gauche — Rue Jean-Baptiste Dumay</desc>
+  </wpt>
+  <wpt lat="48.8744031" lon="2.3862848">
+    <name>Étape 95</name>
+    <desc>➡️ Tournez à droite — Rue de Belleville</desc>
+  </wpt>
+  <wpt lat="48.8767671" lon="2.3859528">
+    <name>Étape 96</name>
+    <desc>⬅️ Tournez à gauche — Rue Mélingue</desc>
+  </wpt>
+  <wpt lat="48.8768266" lon="2.3852973">
+    <name>Étape 97</name>
+    <desc>➡️ Tournez à droite — Rue Fessart</desc>
+  </wpt>
+  <wpt lat="48.8775792" lon="2.385473">
+    <name>Étape 98</name>
+    <desc>⬅️ Tournez à gauche — Rue des Alouettes</desc>
+  </wpt>
+  <wpt lat="48.8793238" lon="2.3844871">
+    <name>Étape 99</name>
+    <desc>↖️ Tournez légèrement à gauche — Rue Botzaris</desc>
+  </wpt>
+  <wpt lat="48.8777082" lon="2.3812665">
+    <name>Étape 100</name>
+    <desc>➡️ Tournez à droite — Rue Botzaris</desc>
+  </wpt>
+  <wpt lat="48.8763188" lon="2.3796716">
+    <name>Étape 101</name>
+    <desc>↗️ Tournez légèrement à droite — Avenue Simón Bolívar</desc>
+  </wpt>
+  <wpt lat="48.8788819" lon="2.3785022">
+    <name>Étape 102</name>
+    <desc>↖️ Tournez légèrement à gauche — Rue Manin</desc>
+  </wpt>
+  <wpt lat="48.8789529" lon="2.3783587">
+    <name>Étape 103</name>
+    <desc>⬅️ Tournez à gauche — Rue sans nom</desc>
+  </wpt>
+  <wpt lat="48.8788351" lon="2.3780728">
+    <name>Étape 104</name>
+    <desc>➡️ Tournez à droite — Avenue Mathurin Moreau</desc>
+  </wpt>
+  <wpt lat="48.8784261" lon="2.3704521">
+    <name>Étape 105</name>
+    <desc>⬆️ Continuez tout droit — Place du Colonel Fabien</desc>
+  </wpt>
+  <wpt lat="48.8807311" lon="2.3704177">
+    <name>Étape 106</name>
+    <desc>⬆️ Continuez tout droit — Boulevard de la Villette</desc>
+  </wpt>
+  <wpt lat="48.8827364" lon="2.370295">
+    <name>Étape 107</name>
+    <desc>↖️ Tournez légèrement à gauche — Place de la Bataille de Stalingrad</desc>
+  </wpt>
+  <wpt lat="48.8831366" lon="2.3693383">
+    <name>Étape 108</name>
+    <desc>↗️ Tournez légèrement à droite — Place de la Bataille de Stalingrad</desc>
+  </wpt>
+  <wpt lat="48.8840647" lon="2.3688802">
+    <name>Étape 109</name>
+    <desc>↗️ Tournez légèrement à droite — Place de la Bataille de Stalingrad</desc>
+  </wpt>
+  <wpt lat="48.884378" lon="2.369196">
+    <name>Étape 110</name>
+    <desc>⬅️ Tournez à gauche — Avenue de Flandre</desc>
+  </wpt>
+  <wpt lat="48.8844707" lon="2.3689748">
+    <name>Étape 111</name>
+    <desc>⬅️ Tournez à gauche — Rue sans nom</desc>
+  </wpt>
+  <wpt lat="48.8841815" lon="2.3686164">
+    <name>Étape 112</name>
+    <desc>➡️ Tournez à droite — Avenue de Flandre</desc>
+  </wpt>
+  <wpt lat="48.8842944" lon="2.3676079">
+    <name>Étape 113</name>
+    <desc>⬆️ Continuez tout droit — Boulevard de la Villette</desc>
+  </wpt>
+  <wpt lat="48.8845021" lon="2.3642079">
+    <name>Étape 114</name>
+    <desc>➡️ Tournez à droite — Boulevard de la Chapelle</desc>
+  </wpt>
+  <wpt lat="48.8847833" lon="2.3593397">
+    <name>Étape 115</name>
+    <desc>⬅️ Tournez à gauche — Place de la Chapelle</desc>
+  </wpt>
+  <wpt lat="48.8849236" lon="2.3567999">
+    <name>Étape 116</name>
+    <desc>⬆️ Continuez tout droit — Rue de Jessaint</desc>
+  </wpt>
+  <wpt lat="48.8848658" lon="2.3552509">
+    <name>Étape 117</name>
+    <desc>⬅️ Tournez à gauche — Rue de la Charbonnière</desc>
+  </wpt>
+  <wpt lat="48.8840669" lon="2.3524198">
+    <name>Étape 118</name>
+    <desc>➡️ Tournez à droite — Rue Caplat</desc>
+  </wpt>
+  <wpt lat="48.8839821" lon="2.3512949">
+    <name>Étape 119</name>
+    <desc>⬆️ Continuez tout droit — Boulevard de la Chapelle</desc>
+  </wpt>
+  <wpt lat="48.8837149" lon="2.3482456">
+    <name>Étape 120</name>
+    <desc>⬆️ Continuez tout droit — Boulevard Marguerite de Rochechouart</desc>
+  </wpt>
+  <wpt lat="48.8824383" lon="2.3379158">
+    <name>Étape 121</name>
+    <desc>↖️ Tournez légèrement à gauche — Boulevard de Clichy</desc>
+  </wpt>
+  <wpt lat="48.8845549" lon="2.3292415">
+    <name>Étape 122</name>
+    <desc>↗️ Tournez légèrement à droite — Boulevard de Clichy</desc>
+  </wpt>
+  <wpt lat="48.883666" lon="2.3273618">
+    <name>Étape 123</name>
+    <desc>⬅️ Tournez à gauche — Place de Clichy</desc>
+  </wpt>
+  <wpt lat="48.8832702" lon="2.3268037">
+    <name>Étape 124</name>
+    <desc>↗️ Tournez légèrement à droite — Place de Clichy</desc>
+  </wpt>
+  <wpt lat="48.8808124" lon="2.3248225">
+    <name>Étape 125</name>
+    <desc>↗️ Tournez légèrement à droite — Rue de Saint-Pétersbourg</desc>
+  </wpt>
+  <wpt lat="48.8790714" lon="2.3232119">
+    <name>Étape 126</name>
+    <desc>⬅️ Tournez à gauche — Place de l’Europe - Simone Veil</desc>
+  </wpt>
+  <wpt lat="48.8788837" lon="2.3232709">
+    <name>Étape 127</name>
+    <desc>↗️ Tournez légèrement à droite — Place de l’Europe - Simone Veil</desc>
+  </wpt>
+  <wpt lat="48.8780545" lon="2.3226225">
+    <name>Étape 128</name>
+    <desc>➡️ Tournez à droite — Rue de Vienne</desc>
+  </wpt>
+  <wpt lat="48.8761869" lon="2.3194496">
+    <name>Étape 129</name>
+    <desc>➡️ Tournez à droite — Place Henri Bergson</desc>
+  </wpt>
+  <wpt lat="48.8767131" lon="2.3193011">
+    <name>Étape 130</name>
+    <desc>⬅️ Tournez à gauche — Avenue César Caire</desc>
+  </wpt>
+  <wpt lat="48.8767023" lon="2.3190416">
+    <name>Étape 131</name>
+    <desc>↙️ Tournez fortement à gauche — Rue de la Bienfaisance</desc>
+  </wpt>
+  <wpt lat="48.8756735" lon="2.3188743">
+    <name>Étape 132</name>
+    <desc>🔄 Tournez demi-tour — Boulevard Malesherbes</desc>
+  </wpt>
+  <wpt lat="48.8756735" lon="2.3188743">
+    <name>Étape 133</name>
+    <desc>⬅️ Tournez à gauche — Boulevard Malesherbes</desc>
+  </wpt>
+  <wpt lat="48.8805088" lon="2.3097804">
+    <name>Étape 134</name>
+    <desc>⬆️ Continuez tout droit — Boulevard de Courcelles</desc>
+  </wpt>
+  <wpt lat="48.8805419" lon="2.3095254">
+    <name>Étape 135</name>
+    <desc>↖️ Tournez légèrement à gauche — Place de la République Dominicaine</desc>
+  </wpt>
+  <wpt lat="48.8804382" lon="2.3086853">
+    <name>Étape 136</name>
+    <desc>↗️ Tournez légèrement à droite — Place de la République Dominicaine</desc>
+  </wpt>
+  <wpt lat="48.8812045" lon="2.3068756">
+    <name>Étape 137</name>
+    <desc>↗️ Tournez légèrement à droite — Rue de Prony</desc>
+  </wpt>
+  <wpt lat="48.8847009" lon="2.2991911">
+    <name>Étape 138</name>
+    <desc>⬅️ Tournez à gauche — Rue de Prony</desc>
+  </wpt>
+  <wpt lat="48.8847445" lon="2.2988234">
+    <name>Étape 139</name>
+    <desc>➡️ Tournez à droite — Avenue de Villiers</desc>
+  </wpt>
+  <wpt lat="48.8851024" lon="2.2978724">
+    <name>Étape 140</name>
+    <desc>↖️ Tournez légèrement à gauche — Place du Maréchal Juin</desc>
+  </wpt>
+  <wpt lat="48.8853379" lon="2.2974805">
+    <name>Étape 141</name>
+    <desc>↖️ Tournez légèrement à gauche — Place du Maréchal Juin</desc>
+  </wpt>
+  <wpt lat="48.885359" lon="2.297261">
+    <name>Étape 142</name>
+    <desc>⬅️ Tournez à gauche — Place du Maréchal Juin</desc>
+  </wpt>
+  <wpt lat="48.8850672" lon="2.2966674">
+    <name>Étape 143</name>
+    <desc>↗️ Tournez légèrement à droite — Place du Maréchal Juin</desc>
+  </wpt>
+  <wpt lat="48.8851505" lon="2.2956663">
+    <name>Étape 144</name>
+    <desc>⬆️ Continuez tout droit — Avenue de Villiers</desc>
+  </wpt>
+  <wpt lat="48.8857814" lon="2.2907396">
+    <name>Étape 145</name>
+    <desc>⬆️ Continuez tout droit — Place de la Porte de Champerret</desc>
+  </wpt>
+  <wpt lat="48.886142" lon="2.2880561">
+    <name>Étape 146</name>
+    <desc>↖️ Tournez légèrement à gauche — Avenue de la Porte de Champerret</desc>
+  </wpt>
+  <wpt lat="48.8842459" lon="2.2854009">
+    <name>Étape 147</name>
+    <desc>⬆️ Continuez tout droit — Rue sans nom</desc>
+  </wpt>
+  <wpt lat="48.8836949" lon="2.2844696">
+    <name>Étape 148</name>
+    <desc>⬆️ Continuez tout droit — Boulevard Périphérique Extérieur</desc>
+  </wpt>
+  <wpt lat="48.8825868" lon="2.2827451">
+    <name>Étape 149</name>
+    <desc>➡️ Tournez à droite — Rue sans nom</desc>
+  </wpt>
+  <wpt lat="48.8835768" lon="2.2819028">
+    <name>Étape 150</name>
+    <desc>🏁 Arrivée  — Boulevard d'Aurelle de Paladines</desc>
+  </wpt>
+  <trk>
+    <name>GribouRun Paris</name>
+    <trkseg>
+      <trkpt lat="48.8835768" lon="2.2819028">
+      </trkpt>
+      <trkpt lat="48.8825868" lon="2.2827451">
+      </trkpt>
+      <trkpt lat="48.8815032" lon="2.2817966">
+      </trkpt>
+      <trkpt lat="48.8809268" lon="2.2813104">
+      </trkpt>
+      <trkpt lat="48.8806273" lon="2.2810489">
+      </trkpt>
+      <trkpt lat="48.8796062" lon="2.2807937">
+      </trkpt>
+      <trkpt lat="48.879478" lon="2.2807517">
+      </trkpt>
+      <trkpt lat="48.8793493" lon="2.280659">
+      </trkpt>
+      <trkpt lat="48.8792766" lon="2.2806246">
+      </trkpt>
+      <trkpt lat="48.8786806" lon="2.2800695">
+      </trkpt>
+      <trkpt lat="48.8784501" lon="2.2799091">
+      </trkpt>
+      <trkpt lat="48.877836" lon="2.2794498">
+      </trkpt>
+      <trkpt lat="48.8775593" lon="2.2793341">
+      </trkpt>
+      <trkpt lat="48.8773406" lon="2.2792662">
+      </trkpt>
+      <trkpt lat="48.8772646" lon="2.2785836">
+      </trkpt>
+      <trkpt lat="48.877034" lon="2.2771879">
+      </trkpt>
+      <trkpt lat="48.8768766" lon="2.2755167">
+      </trkpt>
+      <trkpt lat="48.8768757" lon="2.2754683">
+      </trkpt>
+      <trkpt lat="48.8768262" lon="2.2749206">
+      </trkpt>
+      <trkpt lat="48.8769787" lon="2.2713231">
+      </trkpt>
+      <trkpt lat="48.8774005" lon="2.2704955">
+      </trkpt>
+      <trkpt lat="48.877512" lon="2.2703568">
+      </trkpt>
+      <trkpt lat="48.8775788" lon="2.2703221">
+      </trkpt>
+      <trkpt lat="48.8776118" lon="2.2700052">
+      </trkpt>
+      <trkpt lat="48.8775278" lon="2.2699285">
+      </trkpt>
+      <trkpt lat="48.8772544" lon="2.2695517">
+      </trkpt>
+      <trkpt lat="48.8758448" lon="2.2622022">
+      </trkpt>
+      <trkpt lat="48.8750155" lon="2.2581825">
+      </trkpt>
+      <trkpt lat="48.874118" lon="2.2557573">
+      </trkpt>
+      <trkpt lat="48.8741139" lon="2.2553962">
+      </trkpt>
+      <trkpt lat="48.8573541" lon="2.2646623">
+      </trkpt>
+      <trkpt lat="48.8570207" lon="2.2665471">
+      </trkpt>
+      <trkpt lat="48.8583202" lon="2.2702369">
+      </trkpt>
+      <trkpt lat="48.8583577" lon="2.2706024">
+      </trkpt>
+      <trkpt lat="48.8582782" lon="2.2722058">
+      </trkpt>
+      <trkpt lat="48.8581639" lon="2.2726223">
+      </trkpt>
+      <trkpt lat="48.8580299" lon="2.2725953">
+      </trkpt>
+      <trkpt lat="48.857301" lon="2.2730326">
+      </trkpt>
+      <trkpt lat="48.8571664" lon="2.2733132">
+      </trkpt>
+      <trkpt lat="48.8571112" lon="2.273422">
+      </trkpt>
+      <trkpt lat="48.8568011" lon="2.2740197">
+      </trkpt>
+      <trkpt lat="48.8564627" lon="2.2746919">
+      </trkpt>
+      <trkpt lat="48.855176" lon="2.2752346">
+      </trkpt>
+      <trkpt lat="48.8542033" lon="2.2755291">
+      </trkpt>
+      <trkpt lat="48.8529741" lon="2.275815">
+      </trkpt>
+      <trkpt lat="48.8527583" lon="2.2758633">
+      </trkpt>
+      <trkpt lat="48.8514669" lon="2.2782337">
+      </trkpt>
+      <trkpt lat="48.851324" lon="2.2784754">
+      </trkpt>
+      <trkpt lat="48.8493803" lon="2.2815634">
+      </trkpt>
+      <trkpt lat="48.849313" lon="2.2816662">
+      </trkpt>
+      <trkpt lat="48.8491547" lon="2.2819074">
+      </trkpt>
+      <trkpt lat="48.8485141" lon="2.2828808">
+      </trkpt>
+      <trkpt lat="48.8476848" lon="2.2841351">
+      </trkpt>
+      <trkpt lat="48.8467633" lon="2.2856499">
+      </trkpt>
+      <trkpt lat="48.8465574" lon="2.2859894">
+      </trkpt>
+      <trkpt lat="48.8466525" lon="2.2879909">
+      </trkpt>
+      <trkpt lat="48.8466943" lon="2.2888818">
+      </trkpt>
+      <trkpt lat="48.8468728" lon="2.2924171">
+      </trkpt>
+      <trkpt lat="48.8469112" lon="2.2931875">
+      </trkpt>
+      <trkpt lat="48.8469303" lon="2.2935692">
+      </trkpt>
+      <trkpt lat="48.8469325" lon="2.2936115">
+      </trkpt>
+      <trkpt lat="48.8469683" lon="2.2943422">
+      </trkpt>
+      <trkpt lat="48.8470436" lon="2.2957291">
+      </trkpt>
+      <trkpt lat="48.8470781" lon="2.2959441">
+      </trkpt>
+      <trkpt lat="48.8473301" lon="2.2976499">
+      </trkpt>
+      <trkpt lat="48.8473656" lon="2.2979298">
+      </trkpt>
+      <trkpt lat="48.8478407" lon="2.3013655">
+      </trkpt>
+      <trkpt lat="48.8477978" lon="2.301404">
+      </trkpt>
+      <trkpt lat="48.8477362" lon="2.3015771">
+      </trkpt>
+      <trkpt lat="48.8477526" lon="2.3017167">
+      </trkpt>
+      <trkpt lat="48.8473729" lon="2.3030128">
+      </trkpt>
+      <trkpt lat="48.847228" lon="2.3035129">
+      </trkpt>
+      <trkpt lat="48.8470061" lon="2.3042602">
+      </trkpt>
+      <trkpt lat="48.8464628" lon="2.3060861">
+      </trkpt>
+      <trkpt lat="48.8463138" lon="2.3066133">
+      </trkpt>
+      <trkpt lat="48.845752" lon="2.3086051">
+      </trkpt>
+      <trkpt lat="48.8449989" lon="2.3106883">
+      </trkpt>
+      <trkpt lat="48.8428569" lon="2.3123924">
+      </trkpt>
+      <trkpt lat="48.8420802" lon="2.3130042">
+      </trkpt>
+      <trkpt lat="48.8413488" lon="2.3136564">
+      </trkpt>
+      <trkpt lat="48.8404073" lon="2.3147178">
+      </trkpt>
+      <trkpt lat="48.8403442" lon="2.3148587">
+      </trkpt>
+      <trkpt lat="48.8396334" lon="2.3147411">
+      </trkpt>
+      <trkpt lat="48.8386563" lon="2.3145718">
+      </trkpt>
+      <trkpt lat="48.8396334" lon="2.3147411">
+      </trkpt>
+      <trkpt lat="48.8403442" lon="2.3148587">
+      </trkpt>
+      <trkpt lat="48.840341" lon="2.3149399">
+      </trkpt>
+      <trkpt lat="48.8390085" lon="2.3165067">
+      </trkpt>
+      <trkpt lat="48.8374441" lon="2.3180741">
+      </trkpt>
+      <trkpt lat="48.8374791" lon="2.3181696">
+      </trkpt>
+      <trkpt lat="48.8374256" lon="2.3185922">
+      </trkpt>
+      <trkpt lat="48.8373328" lon="2.3194541">
+      </trkpt>
+      <trkpt lat="48.8374697" lon="2.3202317">
+      </trkpt>
+      <trkpt lat="48.8375752" lon="2.3224122">
+      </trkpt>
+      <trkpt lat="48.8375281" lon="2.3229328">
+      </trkpt>
+      <trkpt lat="48.8368222" lon="2.3232462">
+      </trkpt>
+      <trkpt lat="48.8362216" lon="2.3234901">
+      </trkpt>
+      <trkpt lat="48.8354988" lon="2.3237679">
+      </trkpt>
+      <trkpt lat="48.8351053" lon="2.3239317">
+      </trkpt>
+      <trkpt lat="48.8340841" lon="2.3243448">
+      </trkpt>
+      <trkpt lat="48.8335716" lon="2.3258159">
+      </trkpt>
+      <trkpt lat="48.8333777" lon="2.3264397">
+      </trkpt>
+      <trkpt lat="48.8332219" lon="2.3269946">
+      </trkpt>
+      <trkpt lat="48.8330634" lon="2.3275335">
+      </trkpt>
+      <trkpt lat="48.832025" lon="2.3274337">
+      </trkpt>
+      <trkpt lat="48.8313718" lon="2.3299492">
+      </trkpt>
+      <trkpt lat="48.8322136" lon="2.330682">
+      </trkpt>
+      <trkpt lat="48.8332806" lon="2.3315679">
+      </trkpt>
+      <trkpt lat="48.8336809" lon="2.3319712">
+      </trkpt>
+      <trkpt lat="48.8334306" lon="2.3326172">
+      </trkpt>
+      <trkpt lat="48.8333733" lon="2.3331235">
+      </trkpt>
+      <trkpt lat="48.8337536" lon="2.3334212">
+      </trkpt>
+      <trkpt lat="48.834137" lon="2.3333506">
+      </trkpt>
+      <trkpt lat="48.8344676" lon="2.3334563">
+      </trkpt>
+      <trkpt lat="48.834607" lon="2.336965">
+      </trkpt>
+      <trkpt lat="48.8346595" lon="2.3382121">
+      </trkpt>
+      <trkpt lat="48.8348127" lon="2.3415865">
+      </trkpt>
+      <trkpt lat="48.8349574" lon="2.3449903">
+      </trkpt>
+      <trkpt lat="48.8350234" lon="2.3462433">
+      </trkpt>
+      <trkpt lat="48.8350546" lon="2.3463924">
+      </trkpt>
+      <trkpt lat="48.8355722" lon="2.3480346">
+      </trkpt>
+      <trkpt lat="48.8356578" lon="2.3483188">
+      </trkpt>
+      <trkpt lat="48.8357429" lon="2.3485695">
+      </trkpt>
+      <trkpt lat="48.8359953" lon="2.3484769">
+      </trkpt>
+      <trkpt lat="48.8376541" lon="2.3492537">
+      </trkpt>
+      <trkpt lat="48.8384344" lon="2.3506484">
+      </trkpt>
+      <trkpt lat="48.8384832" lon="2.3507814">
+      </trkpt>
+      <trkpt lat="48.8385884" lon="2.3507331">
+      </trkpt>
+      <trkpt lat="48.8388718" lon="2.3508248">
+      </trkpt>
+      <trkpt lat="48.8391479" lon="2.3509804">
+      </trkpt>
+      <trkpt lat="48.8396902" lon="2.3512679">
+      </trkpt>
+      <trkpt lat="48.8398456" lon="2.3513606">
+      </trkpt>
+      <trkpt lat="48.8400123" lon="2.3514625">
+      </trkpt>
+      <trkpt lat="48.8400951" lon="2.3518743">
+      </trkpt>
+      <trkpt lat="48.8406169" lon="2.3528854">
+      </trkpt>
+      <trkpt lat="48.8406571" lon="2.3539776">
+      </trkpt>
+      <trkpt lat="48.8408854" lon="2.3548414">
+      </trkpt>
+      <trkpt lat="48.8411769" lon="2.3559637">
+      </trkpt>
+      <trkpt lat="48.841587" lon="2.3558241">
+      </trkpt>
+      <trkpt lat="48.8436522" lon="2.3550123">
+      </trkpt>
+      <trkpt lat="48.8437912" lon="2.3549397">
+      </trkpt>
+      <trkpt lat="48.8447931" lon="2.3547431">
+      </trkpt>
+      <trkpt lat="48.8451191" lon="2.3546865">
+      </trkpt>
+      <trkpt lat="48.8456478" lon="2.3545947">
+      </trkpt>
+      <trkpt lat="48.8472862" lon="2.3534109">
+      </trkpt>
+      <trkpt lat="48.8475802" lon="2.3534183">
+      </trkpt>
+      <trkpt lat="48.8488161" lon="2.3553225">
+      </trkpt>
+      <trkpt lat="48.8491657" lon="2.3558724">
+      </trkpt>
+      <trkpt lat="48.8493781" lon="2.3561257">
+      </trkpt>
+      <trkpt lat="48.8493852" lon="2.3563214">
+      </trkpt>
+      <trkpt lat="48.8494121" lon="2.3567581">
+      </trkpt>
+      <trkpt lat="48.8500938" lon="2.3589985">
+      </trkpt>
+      <trkpt lat="48.8504233" lon="2.3601009">
+      </trkpt>
+      <trkpt lat="48.850828" lon="2.3614314">
+      </trkpt>
+      <trkpt lat="48.8510716" lon="2.36225">
+      </trkpt>
+      <trkpt lat="48.8512052" lon="2.3626857">
+      </trkpt>
+      <trkpt lat="48.8515096" lon="2.3636908">
+      </trkpt>
+      <trkpt lat="48.8520542" lon="2.3654854">
+      </trkpt>
+      <trkpt lat="48.8520968" lon="2.3656284">
+      </trkpt>
+      <trkpt lat="48.8521921" lon="2.3659486">
+      </trkpt>
+      <trkpt lat="48.8524037" lon="2.3666589">
+      </trkpt>
+      <trkpt lat="48.8524602" lon="2.3668395">
+      </trkpt>
+      <trkpt lat="48.8526154" lon="2.3673524">
+      </trkpt>
+      <trkpt lat="48.8528621" lon="2.3683564">
+      </trkpt>
+      <trkpt lat="48.8532534" lon="2.3685961">
+      </trkpt>
+      <trkpt lat="48.8535535" lon="2.3690599">
+      </trkpt>
+      <trkpt lat="48.8534721" lon="2.3695555">
+      </trkpt>
+      <trkpt lat="48.8532974" lon="2.3697178">
+      </trkpt>
+      <trkpt lat="48.8532957" lon="2.3701484">
+      </trkpt>
+      <trkpt lat="48.8532772" lon="2.3702856">
+      </trkpt>
+      <trkpt lat="48.8543372" lon="2.3714397">
+      </trkpt>
+      <trkpt lat="48.8547839" lon="2.3727458">
+      </trkpt>
+      <trkpt lat="48.8555166" lon="2.3744228">
+      </trkpt>
+      <trkpt lat="48.8555802" lon="2.3745984">
+      </trkpt>
+      <trkpt lat="48.8557643" lon="2.3750856">
+      </trkpt>
+      <trkpt lat="48.8563832" lon="2.3767796">
+      </trkpt>
+      <trkpt lat="48.8567734" lon="2.377876">
+      </trkpt>
+      <trkpt lat="48.8573175" lon="2.3793394">
+      </trkpt>
+      <trkpt lat="48.8571879" lon="2.3795528">
+      </trkpt>
+      <trkpt lat="48.85745" lon="2.3796975">
+      </trkpt>
+      <trkpt lat="48.8576763" lon="2.3801134">
+      </trkpt>
+      <trkpt lat="48.8576603" lon="2.3804162">
+      </trkpt>
+      <trkpt lat="48.8578139" lon="2.3805281">
+      </trkpt>
+      <trkpt lat="48.8579579" lon="2.380304">
+      </trkpt>
+      <trkpt lat="48.8583808" lon="2.3800503">
+      </trkpt>
+      <trkpt lat="48.8591522" lon="2.3794926">
+      </trkpt>
+      <trkpt lat="48.8603089" lon="2.3786397">
+      </trkpt>
+      <trkpt lat="48.8606491" lon="2.3783091">
+      </trkpt>
+      <trkpt lat="48.8616422" lon="2.3773387">
+      </trkpt>
+      <trkpt lat="48.861978" lon="2.378073">
+      </trkpt>
+      <trkpt lat="48.8624246" lon="2.3790433">
+      </trkpt>
+      <trkpt lat="48.8626966" lon="2.3796314">
+      </trkpt>
+      <trkpt lat="48.863055" lon="2.3792969">
+      </trkpt>
+      <trkpt lat="48.8635501" lon="2.3788795">
+      </trkpt>
+      <trkpt lat="48.8645947" lon="2.3780418">
+      </trkpt>
+      <trkpt lat="48.8656609" lon="2.3773308">
+      </trkpt>
+      <trkpt lat="48.8661028" lon="2.3791913">
+      </trkpt>
+      <trkpt lat="48.8661427" lon="2.3793595">
+      </trkpt>
+      <trkpt lat="48.866354" lon="2.3802491">
+      </trkpt>
+      <trkpt lat="48.8664096" lon="2.3804832">
+      </trkpt>
+      <trkpt lat="48.8666087" lon="2.381284">
+      </trkpt>
+      <trkpt lat="48.8670053" lon="2.3828597">
+      </trkpt>
+      <trkpt lat="48.8671068" lon="2.3832861">
+      </trkpt>
+      <trkpt lat="48.8679235" lon="2.3866245">
+      </trkpt>
+      <trkpt lat="48.8680251" lon="2.3870345">
+      </trkpt>
+      <trkpt lat="48.8683063" lon="2.3881722">
+      </trkpt>
+      <trkpt lat="48.8686637" lon="2.3896284">
+      </trkpt>
+      <trkpt lat="48.8702425" lon="2.38915">
+      </trkpt>
+      <trkpt lat="48.8717773" lon="2.3892892">
+      </trkpt>
+      <trkpt lat="48.8714738" lon="2.3860287">
+      </trkpt>
+      <trkpt lat="48.8734835" lon="2.3831002">
+      </trkpt>
+      <trkpt lat="48.87347" lon="2.3830154">
+      </trkpt>
+      <trkpt lat="48.8738234" lon="2.3827956">
+      </trkpt>
+      <trkpt lat="48.8744229" lon="2.381577">
+      </trkpt>
+      <trkpt lat="48.8746451" lon="2.3812115">
+      </trkpt>
+      <trkpt lat="48.8746928" lon="2.381104">
+      </trkpt>
+      <trkpt lat="48.8755822" lon="2.3818804">
+      </trkpt>
+      <trkpt lat="48.8752366" lon="2.3823005">
+      </trkpt>
+      <trkpt lat="48.8739244" lon="2.3853197">
+      </trkpt>
+      <trkpt lat="48.8738054" lon="2.3880252">
+      </trkpt>
+      <trkpt lat="48.8746856" lon="2.3877743">
+      </trkpt>
+      <trkpt lat="48.8744031" lon="2.3862848">
+      </trkpt>
+      <trkpt lat="48.8767671" lon="2.3859528">
+      </trkpt>
+      <trkpt lat="48.8768266" lon="2.3852973">
+      </trkpt>
+      <trkpt lat="48.8775792" lon="2.385473">
+      </trkpt>
+      <trkpt lat="48.8779302" lon="2.3855458">
+      </trkpt>
+      <trkpt lat="48.8787834" lon="2.3856994">
+      </trkpt>
+      <trkpt lat="48.8794722" lon="2.3857911">
+      </trkpt>
+      <trkpt lat="48.8793238" lon="2.3844871">
+      </trkpt>
+      <trkpt lat="48.8793047" lon="2.3843556">
+      </trkpt>
+      <trkpt lat="48.878363" lon="2.3817754">
+      </trkpt>
+      <trkpt lat="48.8777082" lon="2.3812665">
+      </trkpt>
+      <trkpt lat="48.8759806" lon="2.3813181">
+      </trkpt>
+      <trkpt lat="48.8763188" lon="2.3796716">
+      </trkpt>
+      <trkpt lat="48.8788819" lon="2.3785022">
+      </trkpt>
+      <trkpt lat="48.8789529" lon="2.3783587">
+      </trkpt>
+      <trkpt lat="48.8788351" lon="2.3780728">
+      </trkpt>
+      <trkpt lat="48.8785399" lon="2.3754218">
+      </trkpt>
+      <trkpt lat="48.8785173" lon="2.3752132">
+      </trkpt>
+      <trkpt lat="48.878409" lon="2.3742541">
+      </trkpt>
+      <trkpt lat="48.8782836" lon="2.3731143">
+      </trkpt>
+      <trkpt lat="48.8782556" lon="2.3728592">
+      </trkpt>
+      <trkpt lat="48.8780281" lon="2.3706681">
+      </trkpt>
+      <trkpt lat="48.8784261" lon="2.3704521">
+      </trkpt>
+      <trkpt lat="48.8807311" lon="2.3704177">
+      </trkpt>
+      <trkpt lat="48.8814913" lon="2.3704">
+      </trkpt>
+      <trkpt lat="48.8823839" lon="2.3703692">
+      </trkpt>
+      <trkpt lat="48.8827364" lon="2.370295">
+      </trkpt>
+      <trkpt lat="48.8828125" lon="2.3702278">
+      </trkpt>
+      <trkpt lat="48.8831366" lon="2.3693383">
+      </trkpt>
+      <trkpt lat="48.8835207" lon="2.3689685">
+      </trkpt>
+      <trkpt lat="48.8840647" lon="2.3688802">
+      </trkpt>
+      <trkpt lat="48.884378" lon="2.369196">
+      </trkpt>
+      <trkpt lat="48.8844707" lon="2.3689748">
+      </trkpt>
+      <trkpt lat="48.8841815" lon="2.3686164">
+      </trkpt>
+      <trkpt lat="48.8842944" lon="2.3676079">
+      </trkpt>
+      <trkpt lat="48.8843361" lon="2.3668555">
+      </trkpt>
+      <trkpt lat="48.8844652" lon="2.3648038">
+      </trkpt>
+      <trkpt lat="48.8845021" lon="2.3642079">
+      </trkpt>
+      <trkpt lat="48.8845147" lon="2.3614433">
+      </trkpt>
+      <trkpt lat="48.8845302" lon="2.359383">
+      </trkpt>
+      <trkpt lat="48.8847833" lon="2.3593397">
+      </trkpt>
+      <trkpt lat="48.8849236" lon="2.3567999">
+      </trkpt>
+      <trkpt lat="48.8849707" lon="2.3558348">
+      </trkpt>
+      <trkpt lat="48.8849752" lon="2.3557178">
+      </trkpt>
+      <trkpt lat="48.8848658" lon="2.3552509">
+      </trkpt>
+      <trkpt lat="48.8846009" lon="2.354082">
+      </trkpt>
+      <trkpt lat="48.8842223" lon="2.3524083">
+      </trkpt>
+      <trkpt lat="48.8840669" lon="2.3524198">
+      </trkpt>
+      <trkpt lat="48.8839821" lon="2.3512949">
+      </trkpt>
+      <trkpt lat="48.8839468" lon="2.3507856">
+      </trkpt>
+      <trkpt lat="48.8838548" lon="2.3494771">
+      </trkpt>
+      <trkpt lat="48.8837149" lon="2.3482456">
+      </trkpt>
+      <trkpt lat="48.8835576" lon="2.3469998">
+      </trkpt>
+      <trkpt lat="48.8835003" lon="2.3466423">
+      </trkpt>
+      <trkpt lat="48.8832312" lon="2.3453054">
+      </trkpt>
+      <trkpt lat="48.8830593" lon="2.3444">
+      </trkpt>
+      <trkpt lat="48.8825648" lon="2.3419024">
+      </trkpt>
+      <trkpt lat="48.882168" lon="2.3396406">
+      </trkpt>
+      <trkpt lat="48.8824383" lon="2.3379158">
+      </trkpt>
+      <trkpt lat="48.8825608" lon="2.3372261">
+      </trkpt>
+      <trkpt lat="48.8828591" lon="2.3361773">
+      </trkpt>
+      <trkpt lat="48.8834263" lon="2.334286">
+      </trkpt>
+      <trkpt lat="48.8838764" lon="2.3327896">
+      </trkpt>
+      <trkpt lat="48.8839958" lon="2.3323444">
+      </trkpt>
+      <trkpt lat="48.8844196" lon="2.3305441">
+      </trkpt>
+      <trkpt lat="48.8846418" lon="2.329653">
+      </trkpt>
+      <trkpt lat="48.884677" lon="2.3294977">
+      </trkpt>
+      <trkpt lat="48.8845549" lon="2.3292415">
+      </trkpt>
+      <trkpt lat="48.8836693" lon="2.3274926">
+      </trkpt>
+      <trkpt lat="48.883666" lon="2.3273618">
+      </trkpt>
+      <trkpt lat="48.8836164" lon="2.3272268">
+      </trkpt>
+      <trkpt lat="48.8835265" lon="2.3268501">
+      </trkpt>
+      <trkpt lat="48.8834957" lon="2.3267035">
+      </trkpt>
+      <trkpt lat="48.8832702" lon="2.3268037">
+      </trkpt>
+      <trkpt lat="48.8808124" lon="2.3248225">
+      </trkpt>
+      <trkpt lat="48.8807069" lon="2.3247427">
+      </trkpt>
+      <trkpt lat="48.8799232" lon="2.324123">
+      </trkpt>
+      <trkpt lat="48.8791069" lon="2.3234625">
+      </trkpt>
+      <trkpt lat="48.8790714" lon="2.3232119">
+      </trkpt>
+      <trkpt lat="48.8788837" lon="2.3232709">
+      </trkpt>
+      <trkpt lat="48.8780545" lon="2.3226225">
+      </trkpt>
+      <trkpt lat="48.8770583" lon="2.3218283">
+      </trkpt>
+      <trkpt lat="48.8768662" lon="2.3216736">
+      </trkpt>
+      <trkpt lat="48.8761714" lon="2.3211098">
+      </trkpt>
+      <trkpt lat="48.8761869" lon="2.3194496">
+      </trkpt>
+      <trkpt lat="48.8767131" lon="2.3193011">
+      </trkpt>
+      <trkpt lat="48.8767023" lon="2.3190416">
+      </trkpt>
+      <trkpt lat="48.8766419" lon="2.3176896">
+      </trkpt>
+      <trkpt lat="48.8756735" lon="2.3188743">
+      </trkpt>
+      <trkpt lat="48.8753152" lon="2.3193118">
+      </trkpt>
+      <trkpt lat="48.8756735" lon="2.3188743">
+      </trkpt>
+      <trkpt lat="48.8766419" lon="2.3176896">
+      </trkpt>
+      <trkpt lat="48.8777862" lon="2.3163068">
+      </trkpt>
+      <trkpt lat="48.8783098" lon="2.3156537">
+      </trkpt>
+      <trkpt lat="48.8785263" lon="2.3153888">
+      </trkpt>
+      <trkpt lat="48.8790076" lon="2.3148101">
+      </trkpt>
+      <trkpt lat="48.8794399" lon="2.3142755">
+      </trkpt>
+      <trkpt lat="48.8801024" lon="2.3134691">
+      </trkpt>
+      <trkpt lat="48.8808513" lon="2.31254">
+      </trkpt>
+      <trkpt lat="48.8805088" lon="2.3097804">
+      </trkpt>
+      <trkpt lat="48.8805419" lon="2.3095254">
+      </trkpt>
+      <trkpt lat="48.8805281" lon="2.3090844">
+      </trkpt>
+      <trkpt lat="48.8804382" lon="2.3086853">
+      </trkpt>
+      <trkpt lat="48.8812045" lon="2.3068756">
+      </trkpt>
+      <trkpt lat="48.8814143" lon="2.3063655">
+      </trkpt>
+      <trkpt lat="48.8817242" lon="2.3055969">
+      </trkpt>
+      <trkpt lat="48.882197" lon="2.3044922">
+      </trkpt>
+      <trkpt lat="48.8823123" lon="2.3042348">
+      </trkpt>
+      <trkpt lat="48.8828366" lon="2.3029851">
+      </trkpt>
+      <trkpt lat="48.8832695" lon="2.3019395">
+      </trkpt>
+      <trkpt lat="48.8839595" lon="2.300307">
+      </trkpt>
+      <trkpt lat="48.8843885" lon="2.2992521">
+      </trkpt>
+      <trkpt lat="48.8847009" lon="2.2991911">
+      </trkpt>
+      <trkpt lat="48.8847445" lon="2.2988234">
+      </trkpt>
+      <trkpt lat="48.8849214" lon="2.2979248">
+      </trkpt>
+      <trkpt lat="48.8851024" lon="2.2978724">
+      </trkpt>
+      <trkpt lat="48.8853379" lon="2.2974805">
+      </trkpt>
+      <trkpt lat="48.885359" lon="2.297261">
+      </trkpt>
+      <trkpt lat="48.8852917" lon="2.2969355">
+      </trkpt>
+      <trkpt lat="48.8850672" lon="2.2966674">
+      </trkpt>
+      <trkpt lat="48.8851505" lon="2.2956663">
+      </trkpt>
+      <trkpt lat="48.8853932" lon="2.2936887">
+      </trkpt>
+      <trkpt lat="48.8854266" lon="2.2933877">
+      </trkpt>
+      <trkpt lat="48.8854693" lon="2.293077">
+      </trkpt>
+      <trkpt lat="48.8856411" lon="2.2917707">
+      </trkpt>
+      <trkpt lat="48.885683" lon="2.2915029">
+      </trkpt>
+      <trkpt lat="48.8857814" lon="2.2907396">
+      </trkpt>
+      <trkpt lat="48.8859963" lon="2.2890999">
+      </trkpt>
+      <trkpt lat="48.886142" lon="2.2880561">
+      </trkpt>
+      <trkpt lat="48.8842459" lon="2.2854009">
+      </trkpt>
+      <trkpt lat="48.8836949" lon="2.2844696">
+      </trkpt>
+      <trkpt lat="48.8825868" lon="2.2827451">
+      </trkpt>
+      <trkpt lat="48.8835768" lon="2.2819028">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

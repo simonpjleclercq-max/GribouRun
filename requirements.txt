@@ -1,0 +1,8 @@
+streamlit>=1.30
+numpy
+matplotlib
+pillow
+opencv-python
+osmnx>=1.9
+networkx
+gpxpy
